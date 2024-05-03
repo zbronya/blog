@@ -3,20 +3,19 @@
     {
       "id": "67af8903-ed4e-427e-9404-5f622c466589",
       "doc_id": "67af8903-ed4e-427e-9404-5f622c466589",
-      "updated": 1714725120000,
+      "updated": 1714728120000,
       "properties": {
         "categories": "问题随笔",
         "tags": [
           "v6-proxy",
-          "chatgpt",
-          "chat to api"
+          "chatgpt"
         ],
         "description": "使用TunnelBroker提供的免费/48的ipv6解决chat-to-api的429问题",
         "permalink": "chat-to-api-solving-429/",
         "title": "使用TunnelBroker提供的免费/48的ipv6解决chat-to-api的429问题",
         "cover": "/images/db9e969544fc528abc752fa8dfd84c3b.jpg",
         "date": "2024-05-03 15:51:00",
-        "updated": "2024-05-03 16:32:00"
+        "updated": "2024-05-03 17:22:00"
       },
       "realName": "使用TunnelBroker提供的免费!48的ipv6解决chat-to-api的429问题",
       "relativePath": "/使用TunnelBroker提供的免费!48的ipv6解决chat-to-api的429问题.md",
@@ -28,7 +27,7 @@
       "object": "page",
       "id": "67af8903-ed4e-427e-9404-5f622c466589",
       "created_time": "2024-05-03T07:51:00.000Z",
-      "last_edited_time": "2024-05-03T08:32:00.000Z",
+      "last_edited_time": "2024-05-03T09:22:00.000Z",
       "created_by": {
         "object": "user",
         "id": "3e9a5111-6f41-49a9-8cda-efcec5b93557"
@@ -54,15 +53,14 @@
         "categories": "问题随笔",
         "tags": [
           "v6-proxy",
-          "chatgpt",
-          "chat to api"
+          "chatgpt"
         ],
         "description": "使用TunnelBroker提供的免费/48的ipv6解决chat-to-api的429问题",
         "permalink": "chat-to-api-solving-429/",
         "title": "使用TunnelBroker提供的免费/48的ipv6解决chat-to-api的429问题",
         "cover": "/images/db9e969544fc528abc752fa8dfd84c3b.jpg",
         "date": "2024-05-03 15:51:00",
-        "updated": "2024-05-03 16:32:00"
+        "updated": "2024-05-03 17:22:00"
       },
       "url": "https://www.notion.so/TunnelBroker-48-ipv6-chat-to-api-429-67af8903ed4e427e94045f622c466589",
       "public_url": null

@@ -3,13 +3,12 @@ categories: 问题随笔
 tags:
   - v6-proxy
   - chatgpt
-  - chat to api
 description: 使用TunnelBroker提供的免费/48的ipv6解决chat-to-api的429问题
 permalink: chat-to-api-solving-429/
 title: 使用TunnelBroker提供的免费/48的ipv6解决chat-to-api的429问题
 cover: /images/db9e969544fc528abc752fa8dfd84c3b.jpg
 date: '2024-05-03 15:51:00'
-updated: '2024-05-03 16:32:00'
+updated: '2024-05-03 17:22:00'
 ---
 
 最近免登录的chat to api会频繁出现429，本文教你如何解决这个问题。

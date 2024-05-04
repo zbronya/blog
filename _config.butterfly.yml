@@ -910,6 +910,7 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
+    - <meta name="referrer" content="no-referrer-when-downgrade" />
     - <link rel="stylesheet" href="/self/btf.css">
   bottom:
   # - <script src="xxxx"></script>

@@ -8,7 +8,7 @@ permalink: chat-to-api-solving-429/
 title: 使用TunnelBroker提供的免费/48的ipv6解决chat-to-api的429问题
 cover: /images/db9e969544fc528abc752fa8dfd84c3b.jpg
 date: '2024-05-03 15:51:00'
-updated: '2024-05-07 11:18:00'
+updated: '2024-05-09 16:48:00'
 ---
 
 最近免登录的chat to api会频繁出现429，本文教你如何解决这个问题。
@@ -37,7 +37,18 @@ curl ipv6.ip.sb
 ```
 
 
-如果这里不通，说明你配置的有问题，请回去检查配置。注意一下local可能是你的公网ip，也可能是内网ip，和服务商配置有关，一般都是公网ip，甲骨文是内网ip。
+从你的子网中随机找一个ip 比如 2001:0470:0007:0082:6a4b:2c8f:1d3e:5f9a (不知道怎么找可以把网段给chatgpt让他找)
+
+
+```javascript
+curl --int 2001:0470:0007:0082:6a4b:2c8f:1d3e:5f9a ipv6.ip.sb
+```
+
+
+如果这里成功返回你的地址证明你配置ok
+
+
+如果这里不通，说明你配置的有问题，请回去检查配置。也有可能是服务商不支持，注意一下local可能是你的公网ip，也可能是内网ip，和服务商配置有关，一般都是公网ip，NAT是内网ip。
 
 
 

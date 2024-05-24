@@ -233,7 +233,7 @@ aside:
       icon: fab fa-github
       link: https://github.com/zbronya
   card_announcement:
-    enable: true
+    enable: false
     content: 吹水交流群(点击或者扫码)<br/> <div class="aside-qrcode"><a href="https://t.me/zbronya_chat_group"><img src="/img/tg_chat_group.jpeg" /></a></div>
   card_recent_post:
     enable: true

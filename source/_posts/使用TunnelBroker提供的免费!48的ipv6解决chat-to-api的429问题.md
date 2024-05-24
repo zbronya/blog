@@ -8,7 +8,7 @@ permalink: chat-to-api-solving-429/
 title: 使用TunnelBroker提供的免费/48的ipv6解决chat-to-api的429问题
 cover: /images/db9e969544fc528abc752fa8dfd84c3b.jpg
 date: '2024-05-03 15:51:00'
-updated: '2024-05-09 16:48:00'
+updated: '2024-05-24 10:07:00'
 ---
 
 最近免登录的chat to api会频繁出现429，本文教你如何解决这个问题。
@@ -41,6 +41,9 @@ curl ipv6.ip.sb
 
 
 ```javascript
+sysctl -w net.ipv6.ip_nonlocal_bind=1
+sysctl -w net.ipv6.conf.all.forwarding=1
+
 curl --int 2001:0470:0007:0082:6a4b:2c8f:1d3e:5f9a ipv6.ip.sb
 ```
 

@@ -11,7 +11,7 @@ module.exports = {
     platform: 'local',
     local: {
       outputDir: './source/_posts',
-      filename: 'title',
+      filename: 'permalink',
       format: 'markdown',
       catalog: false,
       frontMatter: {

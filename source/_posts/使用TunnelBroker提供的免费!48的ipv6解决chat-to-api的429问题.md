@@ -8,8 +8,17 @@ permalink: chat-to-api-solving-429/
 title: 使用TunnelBroker提供的免费/48的ipv6解决chat-to-api的429问题
 cover: /images/db9e969544fc528abc752fa8dfd84c3b.jpg
 date: '2024-05-03 15:51:00'
-updated: '2024-05-24 10:07:00'
+updated: '2024-05-24 13:38:00'
 ---
+
+**5月24日更新**
+
+
+**TunnelBroker的ip应该已经被openai禁止免登录，所以本文可能达不到你想要的目的。**
+
+
+原文
+
 
 最近免登录的chat to api会频繁出现429，本文教你如何解决这个问题。
 

@@ -8,7 +8,7 @@ permalink: chat-to-api-solving-429/
 title: 使用TunnelBroker提供的免费/48的ipv6解决chat-to-api的429问题
 cover: /images/db9e969544fc528abc752fa8dfd84c3b.jpg
 date: '2024-05-03 15:51:00'
-updated: '2024-05-24 13:38:00'
+updated: '2024-05-28 20:09:00'
 ---
 
 **5月24日更新**
@@ -82,4 +82,4 @@ curl --int 2001:0470:0007:0082:6a4b:2c8f:1d3e:5f9a ipv6.ip.sb
 - 代理程序是通用的，如果不喜欢TunnelBroker，或者你有其他的`/32` `/29`的地址，也是可以使用的
 - 代理程序我只在`ubuntu 22.04`的amd和arm系统上测试过，其他的系统如果有问题可以提issue或者pr
 - 帮我程序点个star吧
-- 如果你还没有chat-to-api的项目，也可以试试我的  [https://github.com/zbronya/free-chat-to-api](https://github.com/zbronya/free-chat-to-api)
+- ~~如果你还没有chat-to-api的项目，也可以试试我的~~  [~~https://github.com/zbronya/free-chat-to-api~~](https://github.com/zbronya/free-chat-to-api)
